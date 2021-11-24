@@ -4,5 +4,5 @@ function x(...a) {
   }
   return false;
 }
-// NOTE: Have=ing no idea how many numbers are going to be in the source array or what they are. You just need to know that at least one of them is over 5.
+// NOTE: Having no idea how many numbers are going to be in the source array or what they are. You just need to know that at least one of them is over 5.
 console.log(x(5, 25, 4));
